@@ -1,0 +1,1 @@
+. $ROOT_PRJ_DIR/.venv/bin/activate
